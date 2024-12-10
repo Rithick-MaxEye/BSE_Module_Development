@@ -1,0 +1,178 @@
+<FileHeader>Sample23</FileHeader><Cluster_Cluster>
+<Cluster_GSM>
+<Cluster_GSM-Data>
+<Cluster_GSM-SDR>
+<I32_DL Reference Power>0</I32_DL Reference Power>
+<String_Serail Name></String_Serail Name>
+<I32_UL Reference Power>0</I32_UL Reference Power>
+<String_Radio Device></String_Radio Device>
+</Cluster_GSM-SDR>
+<Cluster_GSM-PHY>
+<String_RACH Maximum Retransmission></String_RACH Maximum Retransmission>
+<String_RACH Transmission Slots></String_RACH Transmission Slots>
+<String_RACH Call Reestablishment></String_RACH Call Reestablishment>
+<String_RACH Access Control Class></String_RACH Access Control Class>
+<String_Block for Access Grant></String_Block for Access Grant>
+<String_Multiframe for Paging></String_Multiframe for Paging>
+<String_Power Control Indicator></String_Power Control Indicator>
+<String_Radio Link Timeout></String_Radio Link Timeout>
+<String_Cell Reselect Hysterisis></String_Cell Reselect Hysterisis>
+<String_Attach/Detach Allowed></String_Attach/Detach Allowed>
+<String_CCCH Combinations></String_CCCH Combinations>
+<I64_t3212>0</I64_t3212>
+<String_DTX Indicator></String_DTX Indicator>
+<I64_Power Control Level>0</I64_Power Control Level>
+<I64_Minimum Received Signal Level>0</I64_Minimum Received Signal Level>
+<String_Half Rate Support></String_Half Rate Support>
+<String_Add Reselect></String_Add Reselect>
+</Cluster_GSM-PHY>
+<Cluster_GSM-CELL>
+<String_SMS Enabled></String_SMS Enabled>
+<String_Eutra Operating Bands></String_Eutra Operating Bands>
+<String_Power Offset Indicator></String_Power Offset Indicator>
+<String_Early Classmark Sending Control></String_Early Classmark Sending Control>
+<I32_Location Area Code>0</I32_Location Area Code>
+<String_CALL Enabled></String_CALL Enabled>
+<String_Loop Back Enabled></String_Loop Back Enabled>
+<String_GPRS Enabled></String_GPRS Enabled>
+<String_SI Type 2 ter Indicator></String_SI Type 2 ter Indicator>
+<I64_ARFCN>0</I64_ARFCN>
+<I64_Frequency Format ID>0</I64_Frequency Format ID>
+<I64_Mobile Country Code>0</I64_Mobile Country Code>
+<I64_Mobile Network Code>0</I64_Mobile Network Code>
+<String_Cell Barred Access></String_Cell Barred Access>
+<I32_Downlink Frequency>0</I32_Downlink Frequency>
+<I32_Uplink Frequency>0</I32_Uplink Frequency>
+</Cluster_GSM-CELL>
+<Cluster_GSM-GPRS>
+<String_Priority Access THR></String_Priority Access THR>
+<String_Acess Burst Type></String_Acess Burst Type>
+<String_Nack Countdown></String_Nack Countdown>
+<String_BCCH/PDCH Measurement></String_BCCH/PDCH Measurement>
+<I32_Routing Area Code(RAC)>0</I32_Routing Area Code(RAC)>
+<String_Network Control Order></String_Network Control Order>
+<String_t3168></String_t3168>
+<String_t3192></String_t3192>
+<String_Alpha></String_Alpha>
+</Cluster_GSM-GPRS>
+</Cluster_GSM-Data>
+<String_Combo></String_Combo>
+</Cluster_GSM>
+<Cluster_gNodeB>
+<String_Combo></String_Combo>
+<Cluster_gNodeB-Data>
+<Cluster_NR-SDR>
+<I32_DL Reference Power>0</I32_DL Reference Power>
+<String_Serail Name></String_Serail Name>
+<I32_UL Reference Power>0</I32_UL Reference Power>
+<String_DL Antennas></String_DL Antennas>
+<String_UL Antennas></String_UL Antennas>
+<String_Radio Device></String_Radio Device>
+</Cluster_NR-SDR>
+<Cluster_NR-PHY>
+<I64_PDSCH Reference Power>0</I64_PDSCH Reference Power>
+<I64_SSB RSRP Threshold>0</I64_SSB RSRP Threshold>
+<I64_PRACH Contention Resolution Timer>0</I64_PRACH Contention Resolution Timer>
+<I64_Preamble Per SSB>0</I64_Preamble Per SSB>
+<I64_Preamble Per SSB Format>0</I64_Preamble Per SSB Format>
+<I64_UE Power Level Grant>0</I64_UE Power Level Grant>
+<String_RA Response Window></String_RA Response Window>
+<String_Power Ramp Step Size></String_Power Ramp Step Size>
+<String_Preamble Root Sequence Index></String_Preamble Root Sequence Index>
+<String_Preamble Transmission Count></String_Preamble Transmission Count>
+<I64_Preamble Received Power>0</I64_Preamble Received Power>
+<I64_Zero Correlation Zone Configuration>0</I64_Zero Correlation Zone Configuration>
+<String_Msg Frequency Division Multiplexing></String_Msg Frequency Division Multiplexing>
+<I64_PRACH Configuration Index>0</I64_PRACH Configuration Index>
+<I64_Preamble Timing Offset>0</I64_Preamble Timing Offset>
+<I64_Preamble Format>0</I64_Preamble Format>
+<String_Resource Restriction Type></String_Resource Restriction Type>
+</Cluster_NR-PHY>
+<Cluster_NR-CELL>
+<I64_Tracking Area Code>0</I64_Tracking Area Code>
+<I64_Mobile Country Code>0</I64_Mobile Country Code>
+<I64_Mobile Network Code>0</I64_Mobile Network Code>
+<String_Operating Bands></String_Operating Bands>
+<I64_Physical Cell ID>0</I64_Physical Cell ID>
+<I32_DL Offset to Carrier>0</I32_DL Offset to Carrier>
+<String_Subcarrier Spacing></String_Subcarrier Spacing>
+<I32_UL Offset to Carrier 2>0</I32_UL Offset to Carrier 2>
+<String_Carrier Bandwidth></String_Carrier Bandwidth>
+<String_Transmission Mode></String_Transmission Mode>
+<String_CSI-RS></String_CSI-RS>
+<String_SRS></String_SRS>
+<String_Measurement Report></String_Measurement Report>
+</Cluster_NR-CELL>
+<Cluster_NR-RRC>
+<String_Ciphering Algorithms for SRB></String_Ciphering Algorithms for SRB>
+<String_Integrity Algorithms for SRB></String_Integrity Algorithms for SRB>
+<String_Ciphering Algorithms for DRB></String_Ciphering Algorithms for DRB>
+<String_Integrity Algorithms for DRB></String_Integrity Algorithms for DRB>
+</Cluster_NR-RRC>
+</Cluster_gNodeB-Data>
+</Cluster_gNodeB>
+<Cluster_eNodeB>
+<String_Combo></String_Combo>
+<Cluster_eNodeB-Data>
+<Cluster_LTE-SDR>
+<String_Radio Device></String_Radio Device>
+<I32_DL Reference Power>0</I32_DL Reference Power>
+<String_Serail Name></String_Serail Name>
+<I32_UL Reference Power>0</I32_UL Reference Power>
+<String_DL Antennas></String_DL Antennas>
+<String_UL Antennas></String_UL Antennas>
+</Cluster_LTE-SDR>
+<Cluster_LTE-PHY>
+<String_PBCH Repetition></String_PBCH Repetition>
+<String_PUCCH Delta Shift></String_PUCCH Delta Shift>
+<String_PUCCH CQI Number of RB></String_PUCCH CQI Number of RB>
+<String_PHICH Resource></String_PHICH Resource>
+<String_SRS Enable></String_SRS Enable>
+<String_PCCH Paging Cycle></String_PCCH Paging Cycle>
+<String_BCCH Modification Coefficient></String_BCCH Modification Coefficient>
+<String_PUSCH Alpha></String_PUSCH Alpha>
+<String_PUSCH DMRS Enable></String_PUSCH DMRS Enable>
+<String_PHICH Duration></String_PHICH Duration>
+<I64_PUCCH HARQ Max Transmission>0</I64_PUCCH HARQ Max Transmission>
+<String_PCCH Narrowband Count></String_PCCH Narrowband Count>
+<I64_PUSCH Power Offset>0</I64_PUSCH Power Offset>
+<I64_PUCCH Power Offset>0</I64_PUCCH Power Offset>
+<String_PDSCH Power Boost></String_PDSCH Power Boost>
+<String_PUCCH An Occassions></String_PUCCH An Occassions>
+<String_PUUCH CS Antenna Ports></String_PUUCH CS Antenna Ports>
+<String_PRACH Response Window Size></String_PRACH Response Window Size>
+<String_PRACH Contention Resolution Timer></String_PRACH Contention Resolution Timer>
+<String_PRACH Ramping Step Size></String_PRACH Ramping Step Size>
+<I64_PDSCH Reference Power>0</I64_PDSCH Reference Power>
+<I64_PRACH Root Sequence Index>0</I64_PRACH Root Sequence Index>
+<String_PRACH Maximum Transmissions></String_PRACH Maximum Transmissions>
+<String_PRACH Initial Received Target Power></String_PRACH Initial Received Target Power>
+<I64_PRACH Configuration Index>0</I64_PRACH Configuration Index>
+</Cluster_LTE-PHY>
+<Cluster_LTE-CELL>
+<String_Duplex Mode></String_Duplex Mode>
+<String_Measurement Report></String_Measurement Report>
+<String_Eutra Operating Bands></String_Eutra Operating Bands>
+<String_Carrier Bandwidth></String_Carrier Bandwidth>
+<I64_Physical Cell ID>0</I64_Physical Cell ID>
+<String_Network Name></String_Network Name>
+<I32_DL Frequency>0</I32_DL Frequency>
+<I32_UL Frequency>0</I32_UL Frequency>
+<String_Transmission Mode></String_Transmission Mode>
+<String_MNC Length></String_MNC Length>
+<String_IMS Enabled></String_IMS Enabled>
+<I32_Tracking Area Code>0</I32_Tracking Area Code>
+<I32_Mobile Network Code>0</I32_Mobile Network Code>
+<I32_Mobile Country Code>0</I32_Mobile Country Code>
+</Cluster_LTE-CELL>
+<Cluster_LTE-RRC>
+<String_RLC Maximum Retransmision Threshold></String_RLC Maximum Retransmision Threshold>
+<I32_RLC Timer Poll Retransmit>0</I32_RLC Timer Poll Retransmit>
+<I32_RLC Timer Reordering>0</I32_RLC Timer Reordering>
+<I32_RLC Timer Status Prohibit>0</I32_RLC Timer Status Prohibit>
+<I32_RLC Poll PDU>0</I32_RLC Poll PDU>
+<I32_RLC Poll Byte>0</I32_RLC Poll Byte>
+</Cluster_LTE-RRC>
+</Cluster_eNodeB-Data>
+</Cluster_eNodeB>
+</Cluster_Cluster>

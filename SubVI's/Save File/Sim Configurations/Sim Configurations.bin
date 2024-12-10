@@ -1,0 +1,46 @@
+<FileHeader>Sim Configurations</FileHeader><Cluster_>
+<Array_Session_array><Array_Session_array0><Cluster_Session & Bearer>
+<Boolean_Add Bearer>1</Boolean_Add Bearer>
+<String_APN Name
+>546</String_APN Name
+>
+<String_AMBR Uplink(Gbps)
+>456</String_AMBR Uplink(Gbps)
+>
+<String_AMBR Downlink(Gbps)
+>456</String_AMBR Downlink(Gbps)
+>
+<String_Session name>Session  1</String_Session name>
+<Array_Bearer_Array><Array_Bearer_Array0><Cluster_Bearers>
+<String_QCI:>456</String_QCI:>
+<String_Priority Level:>56</String_Priority Level:>
+<String_Pre-emption
+Capability:>65</String_Pre-emption
+Capability:>
+<String_Pre-emption
+Vulnerability:>56</String_Pre-emption
+Vulnerability:>
+<String_MBR DL:>64</String_MBR DL:>
+<String_MBR UL:>456</String_MBR UL:>
+<String_GBR DL:>6</String_GBR DL:>
+<String_GBR UL:>456</String_GBR UL:>
+<String_Bearer Name>Dedicated Bearer 1</String_Bearer Name>
+<Boolean_Delete Session>0</Boolean_Delete Session>
+</Cluster_Bearers></Array_Bearer_Array0></Array_Bearer_Array>
+<Boolean_Delete Session>0</Boolean_Delete Session>
+</Cluster_Session & Bearer></Array_Session_array0></Array_Session_array>
+<Cluster_SIM_U_Config>
+<Boolean_Add>0</Boolean_Add>
+<Boolean_Close>0</Boolean_Close>
+<Array_SIM_UI><Array_SIM_UI0><Cluster_Sim-Data>
+<Boolean_Delete>0</Boolean_Delete>
+<Boolean_Edit>0</Boolean_Edit>
+<String_TAC>456</String_TAC>
+<String_OP Value>4566</String_OP Value>
+<String_K Value>45646</String_K Value>
+<String_Phone Number>456456</String_Phone Number>
+<String_IMSI>223445</String_IMSI>
+</Cluster_Sim-Data></Array_SIM_UI0></Array_SIM_UI>
+<Boolean_Save>0</Boolean_Save>
+</Cluster_SIM_U_Config>
+</Cluster_>
