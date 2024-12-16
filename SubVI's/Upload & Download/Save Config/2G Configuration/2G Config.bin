@@ -1,0 +1,170 @@
+<FileHeader>2G Config</FileHeader><Cluster_>
+<Cluster_Network 1-2G>
+<Cluster_GSM-SDR>
+<I32_DL Reference Power>-17</I32_DL Reference Power>
+<String_Serail Name></String_Serail Name>
+<I32_UL Reference Power>-21</I32_UL Reference Power>
+<String_Radio Device>0</String_Radio Device>
+</Cluster_GSM-SDR>
+<Cluster_GSM-GPRS>
+<String_Priority Access THR>6</String_Priority Access THR>
+<String_Acess Burst Type>0</String_Acess Burst Type>
+<String_Nack Countdown>8</String_Nack Countdown>
+<String_BCCH/PDCH Measurement>0</String_BCCH/PDCH Measurement>
+<I32_Routing Area Code(RAC)>128</I32_Routing Area Code(RAC)>
+<String_Network Control Order>0</String_Network Control Order>
+<String_t3168>3</String_t3168>
+<String_t3192>2</String_t3192>
+<String_Alpha>10</String_Alpha>
+</Cluster_GSM-GPRS>
+<Cluster_GSM-PHY>
+<String_RACH Maximum Retransmission>3</String_RACH Maximum Retransmission>
+<String_RACH Transmission Slots>1</String_RACH Transmission Slots>
+<String_RACH Call Reestablishment>1</String_RACH Call Reestablishment>
+<String_RACH Access Control Class>1</String_RACH Access Control Class>
+<String_Block for Access Grant>0</String_Block for Access Grant>
+<String_Multiframe for Paging>0</String_Multiframe for Paging>
+<String_Power Control Indicator>0</String_Power Control Indicator>
+<String_Radio Link Timeout>850</String_Radio Link Timeout>
+<String_Cell Reselect Hysterisis>0</String_Cell Reselect Hysterisis>
+<String_Attach/Detach Allowed>0</String_Attach/Detach Allowed>
+<String_CCCH Combinations>0</String_CCCH Combinations>
+<I64_t3212>0</I64_t3212>
+<String_DTX Indicator>1</String_DTX Indicator>
+<I64_Power Control Level>0</I64_Power Control Level>
+<I64_Minimum Received Signal Level>0</I64_Minimum Received Signal Level>
+<String_Half Rate Support>0</String_Half Rate Support>
+<String_Add Reselect>1</String_Add Reselect>
+</Cluster_GSM-PHY>
+<Cluster_GSM-CELL>
+<String_SMS Enabled>0</String_SMS Enabled>
+<String_Eutra Operating Bands>900</String_Eutra Operating Bands>
+<String_Power Offset Indicator>1</String_Power Offset Indicator>
+<String_Early Classmark Sending Control>1</String_Early Classmark Sending Control>
+<I32_Location Area Code>5</I32_Location Area Code>
+<String_CALL Enabled>1</String_CALL Enabled>
+<String_Loop Back Enabled>0</String_Loop Back Enabled>
+<String_GPRS Enabled>1</String_GPRS Enabled>
+<String_SI Type 2 ter Indicator>1</String_SI Type 2 ter Indicator>
+<I64_ARFCN>2</I64_ARFCN>
+<I64_Frequency Format ID>0</I64_Frequency Format ID>
+<I64_Mobile Country Code>4</I64_Mobile Country Code>
+<I64_Mobile Network Code>3</I64_Mobile Network Code>
+<String_Cell Barred Access>1</String_Cell Barred Access>
+<I32_Downlink Frequency>-16</I32_Downlink Frequency>
+<I32_Uplink Frequency>1837</I32_Uplink Frequency>
+</Cluster_GSM-CELL>
+</Cluster_Network 1-2G>
+<Cluster_Network 2-2G>
+<Cluster_GSM-SDR>
+<I32_DL Reference Power>-14</I32_DL Reference Power>
+<String_Serail Name></String_Serail Name>
+<I32_UL Reference Power>-14</I32_UL Reference Power>
+<String_Radio Device>0</String_Radio Device>
+</Cluster_GSM-SDR>
+<Cluster_GSM-GPRS>
+<String_Priority Access THR>6</String_Priority Access THR>
+<String_Acess Burst Type>0</String_Acess Burst Type>
+<String_Nack Countdown>8</String_Nack Countdown>
+<String_BCCH/PDCH Measurement>0</String_BCCH/PDCH Measurement>
+<I32_Routing Area Code(RAC)>128</I32_Routing Area Code(RAC)>
+<String_Network Control Order>0</String_Network Control Order>
+<String_t3168>3</String_t3168>
+<String_t3192>2</String_t3192>
+<String_Alpha>10</String_Alpha>
+</Cluster_GSM-GPRS>
+<Cluster_GSM-PHY>
+<String_RACH Maximum Retransmission>1</String_RACH Maximum Retransmission>
+<String_RACH Transmission Slots>14</String_RACH Transmission Slots>
+<String_RACH Call Reestablishment>1</String_RACH Call Reestablishment>
+<String_RACH Access Control Class>0</String_RACH Access Control Class>
+<String_Block for Access Grant>2</String_Block for Access Grant>
+<String_Multiframe for Paging>0</String_Multiframe for Paging>
+<String_Power Control Indicator>0</String_Power Control Indicator>
+<String_Radio Link Timeout>15</String_Radio Link Timeout>
+<String_Cell Reselect Hysterisis>3</String_Cell Reselect Hysterisis>
+<String_Attach/Detach Allowed>1</String_Attach/Detach Allowed>
+<String_CCCH Combinations>1</String_CCCH Combinations>
+<I64_t3212>0</I64_t3212>
+<String_DTX Indicator>1</String_DTX Indicator>
+<I64_Power Control Level>0</I64_Power Control Level>
+<I64_Minimum Received Signal Level>0</I64_Minimum Received Signal Level>
+<String_Half Rate Support>0</String_Half Rate Support>
+<String_Add Reselect>0</String_Add Reselect>
+</Cluster_GSM-PHY>
+<Cluster_GSM-CELL>
+<String_SMS Enabled>0</String_SMS Enabled>
+<String_Eutra Operating Bands>850</String_Eutra Operating Bands>
+<String_Power Offset Indicator>0</String_Power Offset Indicator>
+<String_Early Classmark Sending Control>0</String_Early Classmark Sending Control>
+<I32_Location Area Code>1</I32_Location Area Code>
+<String_CALL Enabled>0</String_CALL Enabled>
+<String_Loop Back Enabled>1</String_Loop Back Enabled>
+<String_GPRS Enabled>0</String_GPRS Enabled>
+<String_SI Type 2 ter Indicator>1</String_SI Type 2 ter Indicator>
+<I64_ARFCN>0</I64_ARFCN>
+<I64_Frequency Format ID>71</I64_Frequency Format ID>
+<I64_Mobile Country Code>1</I64_Mobile Country Code>
+<I64_Mobile Network Code>1</I64_Mobile Network Code>
+<String_Cell Barred Access>0</String_Cell Barred Access>
+<I32_Downlink Frequency>0</I32_Downlink Frequency>
+<I32_Uplink Frequency>900200000</I32_Uplink Frequency>
+</Cluster_GSM-CELL>
+</Cluster_Network 2-2G>
+<Cluster_Network 3-2G>
+<Cluster_GSM-SDR>
+<I32_DL Reference Power>-13</I32_DL Reference Power>
+<String_Serail Name></String_Serail Name>
+<I32_UL Reference Power>-13</I32_UL Reference Power>
+<String_Radio Device>0</String_Radio Device>
+</Cluster_GSM-SDR>
+<Cluster_GSM-GPRS>
+<String_Priority Access THR>6</String_Priority Access THR>
+<String_Acess Burst Type>0</String_Acess Burst Type>
+<String_Nack Countdown>8</String_Nack Countdown>
+<String_BCCH/PDCH Measurement>0</String_BCCH/PDCH Measurement>
+<I32_Routing Area Code(RAC)>128</I32_Routing Area Code(RAC)>
+<String_Network Control Order>0</String_Network Control Order>
+<String_t3168>3</String_t3168>
+<String_t3192>2</String_t3192>
+<String_Alpha>10</String_Alpha>
+</Cluster_GSM-GPRS>
+<Cluster_GSM-PHY>
+<String_RACH Maximum Retransmission>1</String_RACH Maximum Retransmission>
+<String_RACH Transmission Slots>14</String_RACH Transmission Slots>
+<String_RACH Call Reestablishment>1</String_RACH Call Reestablishment>
+<String_RACH Access Control Class>0</String_RACH Access Control Class>
+<String_Block for Access Grant>2</String_Block for Access Grant>
+<String_Multiframe for Paging>0</String_Multiframe for Paging>
+<String_Power Control Indicator>0</String_Power Control Indicator>
+<String_Radio Link Timeout>15</String_Radio Link Timeout>
+<String_Cell Reselect Hysterisis>3</String_Cell Reselect Hysterisis>
+<String_Attach/Detach Allowed>1</String_Attach/Detach Allowed>
+<String_CCCH Combinations>1</String_CCCH Combinations>
+<I64_t3212>0</I64_t3212>
+<String_DTX Indicator>1</String_DTX Indicator>
+<I64_Power Control Level>0</I64_Power Control Level>
+<I64_Minimum Received Signal Level>0</I64_Minimum Received Signal Level>
+<String_Half Rate Support>0</String_Half Rate Support>
+<String_Add Reselect>0</String_Add Reselect>
+</Cluster_GSM-PHY>
+<Cluster_GSM-CELL>
+<String_SMS Enabled>0</String_SMS Enabled>
+<String_Eutra Operating Bands>850</String_Eutra Operating Bands>
+<String_Power Offset Indicator>0</String_Power Offset Indicator>
+<String_Early Classmark Sending Control>0</String_Early Classmark Sending Control>
+<I32_Location Area Code>1</I32_Location Area Code>
+<String_CALL Enabled>0</String_CALL Enabled>
+<String_Loop Back Enabled>1</String_Loop Back Enabled>
+<String_GPRS Enabled>0</String_GPRS Enabled>
+<String_SI Type 2 ter Indicator>1</String_SI Type 2 ter Indicator>
+<I64_ARFCN>0</I64_ARFCN>
+<I64_Frequency Format ID>71</I64_Frequency Format ID>
+<I64_Mobile Country Code>1</I64_Mobile Country Code>
+<I64_Mobile Network Code>1</I64_Mobile Network Code>
+<String_Cell Barred Access>0</String_Cell Barred Access>
+<I32_Downlink Frequency>0</I32_Downlink Frequency>
+<I32_Uplink Frequency>900200000</I32_Uplink Frequency>
+</Cluster_GSM-CELL>
+</Cluster_Network 3-2G>
+</Cluster_>
